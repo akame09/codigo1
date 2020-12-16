@@ -34,7 +34,7 @@
                 <div class="col-md-12">
                     <div class="sad">
                         <h3>Password</h3>
-                        <input class="form-control" type="text" name="pass" placeholder="Ingrese su contraseña"><br><br>
+                        <input class="form-control" type="password" name="pass" placeholder="Ingrese su contraseña"><br><br>
                     </div>
                 </div>
             </div>
